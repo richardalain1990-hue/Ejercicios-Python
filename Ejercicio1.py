@@ -1,6 +1,7 @@
-#Este es un comentario de una linea
+#Richard Alain Chacon Dzul
+# Este es un comentario de una linea
 
-#Este es un comentario 
+#Este es un comentario s
 #Que ocupa varias lineas
 
 """
